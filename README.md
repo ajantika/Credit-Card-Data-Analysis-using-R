@@ -1,6 +1,7 @@
 # Credit-Card-Data-Analysis-using-R
 
-Loading the dataset
+#Loading the dataset
+
 #The dataset has been taken from AER package and can be obtained using: library(AER) data("CreditCard") head(CreditCard) str(CreditCard) summary(CreditCard)
 
 hist(CreditCard$age)
